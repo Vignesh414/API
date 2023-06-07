@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-26T10:31:10Z" name="Default suite" finished-at="2023-05-26T10:31:22Z" duration-ms="12054">
+    <groups>
+    </groups>
+    <test started-at="2023-05-26T10:31:10Z" name="Default test" finished-at="2023-05-26T10:31:22Z" duration-ms="12054">
+      <class name="com.apitask.SwaggerDoc">
+        <test-method signature="Login()[pri:1, instance:com.apitask.SwaggerDoc@4e423aa2]" started-at="2023-05-26T10:31:10Z" name="Login" finished-at="2023-05-26T10:31:14Z" duration-ms="4190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="StateList()[pri:2, instance:com.apitask.SwaggerDoc@4e423aa2]" started-at="2023-05-26T10:31:14Z" name="StateList" finished-at="2023-05-26T10:31:15Z" duration-ms="1041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StateList -->
+        <test-method signature="CityList()[pri:3, instance:com.apitask.SwaggerDoc@4e423aa2]" started-at="2023-05-26T10:31:15Z" name="CityList" finished-at="2023-05-26T10:31:16Z" duration-ms="1344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CityList -->
+        <test-method signature="AddAddress()[pri:4, instance:com.apitask.SwaggerDoc@4e423aa2]" started-at="2023-05-26T10:31:16Z" name="AddAddress" finished-at="2023-05-26T10:31:17Z" duration-ms="1116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddAddress -->
+        <test-method signature="UpdateAddress()[pri:5, instance:com.apitask.SwaggerDoc@4e423aa2]" started-at="2023-05-26T10:31:17Z" name="UpdateAddress" finished-at="2023-05-26T10:31:20Z" duration-ms="2206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateAddress -->
+        <test-method signature="GetAddress()[pri:6, instance:com.apitask.SwaggerDoc@4e423aa2]" started-at="2023-05-26T10:31:20Z" name="GetAddress" finished-at="2023-05-26T10:31:21Z" duration-ms="969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAddress -->
+        <test-method signature="DeleteAddress()[pri:7, instance:com.apitask.SwaggerDoc@4e423aa2]" started-at="2023-05-26T10:31:21Z" name="DeleteAddress" finished-at="2023-05-26T10:31:22Z" duration-ms="1117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteAddress -->
+      </class> <!-- com.apitask.SwaggerDoc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
